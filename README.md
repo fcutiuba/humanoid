@@ -76,5 +76,3 @@ If you encounter issues:
 2. Verify that you've installed the required libraries.
 3. Ensure the PWM driver address matches your hardware setup.
 4. Adjust the `SERVOMIN` and `SERVOMAX` values if your servos aren't moving through their full range.
-
-For further assistance, please open an issue in the GitHub repository.
